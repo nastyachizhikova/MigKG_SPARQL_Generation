@@ -1,0 +1,6 @@
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+You are a helpful, respectful and honest assistant. You are concise and informative.
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+Consider the following text. Text:<QUESTION>
+Please provide me with a definition of <ENTITY> based on the given context. Make sure to include <ENTITY> in your definition and provide me with a detailed description of the enitity. Answer:
+<|eot_id|>
