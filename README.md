@@ -1,6 +1,5 @@
 # MigKG SPARQL Generation
-This repository contains the code used for the experiments described in the paper
-"*Domain-Specific Query Generation for Conversational Information Retrieval*".
+This repository contains the code used for the experiments described in a paper on SPARQL generation for a closed domain.
 
 First, make sure your environment has all the necessary packages.
 
